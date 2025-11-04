@@ -1,0 +1,9 @@
+# Railway ignore file
+frontend/
+docs/
+*.md
+!RAILWAY_DEPLOYMENT.md
+!RAILWAY_QUICK_START.md
+Agreement*.pdf
+.gitignore
+

@@ -1,0 +1,6 @@
+# Root requirements.txt for Railway detection
+# This file helps Railway detect Python project
+# Actual requirements are in backend/requirements.txt
+
+# Railway will use backend/requirements.txt when root directory is set to 'backend'
+
